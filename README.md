@@ -1,4 +1,4 @@
-# FoodyFlutter
+# FoodyFlutter/RecipeRumble
 
 Foody is a Flutter application designed to help users find recipes based on ingredients they have. It utilizes an API to fetch recipe names matching the user's input and provides detailed recipes when a user selects a specific recipe.
 
